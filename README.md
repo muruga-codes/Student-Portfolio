@@ -1,4 +1,4 @@
-# Student-Portfolio
+My_Portfolio
 I am a Computer Science undergraduate passionate about Python and web development. This is my personal portfolio where I showcase projects I’ve built—like number guessing games, quiz apps, and automation scripts—using Python, HTML, CSS, and a bit of JavaScript. My goal is to create accessible, SEO-friendly websites with clean, responsive layouts and user-friendly interactions.
 
 I love learning new technologies and enjoy solving problems, whether through coding challenges or building real-world tools. I believe in clean code and thoughtful design, and aim to make all my projects accessible to everyone by following best practices for web development. This site highlights my technical skills, recent work, and my commitment to helping others through open-source contributions and collaborations.
