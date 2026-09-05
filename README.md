@@ -1,6 +1,6 @@
 My_Portfolio
 
-Link:muruganthamportfolio.netlify.app
+Link: muruganthamportfolio.netlify.app
 
 I am a Computer Science undergraduate passionate about Python and web development. This is my personal portfolio where I showcase projects I’ve built—like number guessing games, quiz apps, and automation scripts—using Python, HTML, CSS, and a bit of JavaScript. My goal is to create accessible, SEO-friendly websites with clean, responsive layouts and user-friendly interactions.
 
